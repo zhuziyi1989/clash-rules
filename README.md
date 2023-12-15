@@ -1,3 +1,3 @@
-# 简介
+# brief introduction
 
-Everything is empty
+Everything is empty.
